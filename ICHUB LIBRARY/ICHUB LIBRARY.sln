@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICHUB LIBRARY", "ICHUB LIBRARY.csproj", "{D42E8DF5-4B07-468A-A685-14805D34EC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{72E5C052-F463-43EB-B15B-E0C5E109529D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWPF", "..\TestWPF\TestWPF.csproj", "{E58B291C-390D-429F-8690-13A082F4E57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testIChub", "..\testIChub\testIChub.csproj", "{E5123DDF-0D13-46A9-ABAD-59CF818BFC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42E8DF5-4B07-468A-A685-14805D34EC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42E8DF5-4B07-468A-A685-14805D34EC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42E8DF5-4B07-468A-A685-14805D34EC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42E8DF5-4B07-468A-A685-14805D34EC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E5C052-F463-43EB-B15B-E0C5E109529D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E5C052-F463-43EB-B15B-E0C5E109529D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E5C052-F463-43EB-B15B-E0C5E109529D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E5C052-F463-43EB-B15B-E0C5E109529D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58B291C-390D-429F-8690-13A082F4E57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58B291C-390D-429F-8690-13A082F4E57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58B291C-390D-429F-8690-13A082F4E57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58B291C-390D-429F-8690-13A082F4E57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5123DDF-0D13-46A9-ABAD-59CF818BFC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5123DDF-0D13-46A9-ABAD-59CF818BFC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5123DDF-0D13-46A9-ABAD-59CF818BFC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5123DDF-0D13-46A9-ABAD-59CF818BFC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A1AE9A-1EA1-4F44-8245-834D02E5B345}
+	EndGlobalSection
+EndGlobal

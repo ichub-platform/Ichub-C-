@@ -1,0 +1,9 @@
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Release\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Release\ICHUB LIBRARY.pdb
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Release\M2Mqtt.Net.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Release\Newtonsoft.Json.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Release\M2Mqtt.Net.pdb
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Release\ICHUB LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Release\ICHUB LIBRARY.csproj.CopyComplete
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Release\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Release\ICHUB LIBRARY.pdb

@@ -1,0 +1,10 @@
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Debug\ICHUB LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Debug\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Debug\ICHUB LIBRARY.pdb
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Debug\M2Mqtt.Net.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Debug\ICHUB LIBRARY.csproj.CopyComplete
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Debug\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Debug\ICHUB LIBRARY.pdb
+C:\Users\DANG\source\repos\ICHUB LIBRARY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANG\source\repos\ICHUB LIBRARY\obj\Debug\ICHUB LIBRARY.csprojAssemblyReference.cache
