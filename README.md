@@ -34,7 +34,9 @@ khởi tạo sự kiện
             try {
                 this.Dispatcher.Invoke(() =>
                 {
-                  var data = e.Data;//khi có thai dổi sẽ chạy ở đây
+                  var data = e.Data;
+                  //khi có thai dổi sẽ chạy ở đây
+                  //e.Data là danh sách các node kèm thuộc tính.
                 });
                 
             }
