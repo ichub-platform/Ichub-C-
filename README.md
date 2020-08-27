@@ -10,6 +10,7 @@ source Arduino :https://github.com/DOE-Ichub/Ichub_platform
             LoginICHUB loginICHUB = new LoginICHUB();
             List<string> lstAccesskey = new List<string>();
             var content = loginICHUB.Login("quoc", "123456789").Result;
+            //content là danh sách các project bạn có thể lấy đucợ tên prọect và các thuộc tính khác
             foreach (var i in content)
             {
                 lstAccesskey.Add(i.KeyConnect);
