@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{942FA477-6A41-4DC7-8D0A-72629113712C}</ProjectGuid>
+    <ProjectGuid>{B2B38E22-6CEE-4625-8056-8BCF7502F29C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp6</RootNamespace>
-    <AssemblyName>ConsoleApp6</AssemblyName>
+    <RootNamespace>ICHUB_Console</RootNamespace>
+    <AssemblyName>ICHUB Console</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -33,11 +33,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ICHUB LIBRARY">
-      <HintPath>..\..\..\Downloads\ICHUB LIBRARY.dll</HintPath>
+      <HintPath>D:\ICHUB\ICHUB LIBRARY.dll</HintPath>
+    </Reference>
+    <Reference Include="M2Mqtt.Net">
+      <HintPath>D:\ICHUB\M2Mqtt.Net.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Desktop\Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:\ICHUB\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

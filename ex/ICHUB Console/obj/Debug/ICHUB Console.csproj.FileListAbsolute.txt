@@ -1,0 +1,11 @@
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\ICHUB Console.exe.config
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\ICHUB Console.exe
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\ICHUB Console.pdb
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\M2Mqtt.Net.dll
+C:\Users\DANG\source\repos\ICHUB Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANG\source\repos\ICHUB Console\obj\Debug\ICHUB Console.csprojAssemblyReference.cache
+C:\Users\DANG\source\repos\ICHUB Console\obj\Debug\ICHUB Console.csproj.CoreCompileInputs.cache
+C:\Users\DANG\source\repos\ICHUB Console\obj\Debug\ICHUB Console.csproj.CopyComplete
+C:\Users\DANG\source\repos\ICHUB Console\obj\Debug\ICHUB Console.exe
+C:\Users\DANG\source\repos\ICHUB Console\obj\Debug\ICHUB Console.pdb
