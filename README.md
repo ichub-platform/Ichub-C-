@@ -27,6 +27,7 @@ khởi tạo sự kiện
  ICHUBData.DataChange += ChangeData;
  ICHUBData.ErrorArgs += ErrorErgs;
  ```
+ Bắt sự kiện
  ```cpp
        private  void ChangeData(object sender, DataChangeArgs e )
         {
@@ -45,9 +46,10 @@ khởi tạo sự kiện
         private void ErrorErgs  (object senser,ErrorArgs e)
         {
             MessageBox.Show(e.Error.Detail);//khi có lỗi sẽ chạy ở đây
-        } ```
+        }
+```
         
         
-        Điều khiển
+Điều khiển
 ```cpp
 ICHUBData.Senddata(82026, data);
