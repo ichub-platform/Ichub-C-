@@ -53,3 +53,5 @@ khởi tạo sự kiện
 Điều khiển
 ```cpp
 ICHUBData.Senddata(82026, data);
+//82026 là id node trên app, data là dữ liệu điều khiển 
+//on-off chỉ được truyền 0 hoặc 1, dimer truyền 0 đến 100, sensor truyền số nguyên 
