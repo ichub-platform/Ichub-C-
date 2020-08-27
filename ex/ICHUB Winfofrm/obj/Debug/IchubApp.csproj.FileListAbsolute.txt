@@ -1,0 +1,14 @@
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\IchubApp.exe.config
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\IchubApp.exe
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\IchubApp.pdb
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\ICHUB LIBRARY.dll
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\M2Mqtt.Net.dll
+C:\Users\DANG\source\repos\IchubApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.csprojAssemblyReference.cache
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.Form1.resources
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.Properties.Resources.resources
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.csproj.GenerateResource.cache
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.csproj.CoreCompileInputs.cache
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.csproj.CopyComplete
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.exe
+C:\Users\DANG\source\repos\IchubApp\obj\Debug\IchubApp.pdb
